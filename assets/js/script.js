@@ -43,8 +43,7 @@ const galleries = {
         { src: './assets/img/kneeling/6.webp' },
         { src: './assets/img/kneeling/7.webp' },
         { src: './assets/img/kneeling/8.webp' },
-        { src: './assets/img/kneeling/9.webp' },
-        { src: './assets/img/kneeling/10.webp' }
+        { src: './assets/img/kneeling/9.webp' }
     ],
     5: [
         { src: './assets/img/all-forurs/1.webp' },
